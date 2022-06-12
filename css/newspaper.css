@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+}
+.bigT{
+    font-size: 60px;
+    color: rgb(28, 214, 149);
+}
+.menu{
+    background-color: red;
+    margin: 20px;
+    padding: 40px;
+}
